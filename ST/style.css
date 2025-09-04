@@ -1,0 +1,127 @@
+*{
+        font-family: 'TT Hoves Pro Trial', sans-serif;
+        margin: 0;
+    }
+body {
+    margin: 0;
+    font-family: 'TT Hoves Pro Trial', sans-serif;
+    font-weight: bold;
+    background-color: #FFEFE4;
+    color: #5a2a2a;
+}
+.Pmaldito{
+    color: #c1372d;
+    margin-top: 60px;
+    font-size: 30px;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 200px 20px 20px;
+}
+.head img{
+    width: 400px;
+    margin-right: -20px;
+}
+.slogan{
+    font-size: 90px;
+    color: #c12e26;
+}
+.red{
+    font-size: 90px;
+    color: #ff961b;
+    padding-left: 8px;
+}
+.h1-txt{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 20px;
+}
+.text1, .text2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -200px;
+    padding: 20px;
+    margin-bottom: -22.5px;
+}
+.bottom-image img{
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.bottom-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 50px;
+}
+.bottom-text button{
+    height: 80px;
+    width: 425px;
+    border-radius: 45px;
+    background-color: #c1382d;
+    color: white;
+    font-weight: bold;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.bottom-text button:hover{
+    background-color: #a52a22;
+}
+.obj {
+    background-color: #c1382d;
+    display: flex;
+    justify-content: center;
+    align-items: stretch; 
+}
+.right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 600px;
+    min-height: 400px;
+    margin: 40px 0;
+    padding: 32px;
+    margin-right: -600px;
+}
+.obj-text {
+    font-size: 30px;
+    font-weight: normal;
+    color: #fff1e6;
+    max-width: 540px;
+    overflow: auto;
+    text-align: right;
+}
+.imagemAmarelaAAAAAAAAAAAAAAAAAAAAAAAAAAAA{
+    margin-left: -750px;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+.imagemAmarelaAAAAAAAAAAAAAAAAAAAAAAAAAAAA img{
+    width: 200px;
+    margin-right: -40px;
+}
+.obj-bottom img{
+    width: 600px;
+    margin-left: -600px;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: -70px;
+}
